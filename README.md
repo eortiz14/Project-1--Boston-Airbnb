@@ -33,3 +33,5 @@ According to the specifications of the project the results are going to be showe
 ## 5. Author and Acknowledgements
 
 This project was done by  Esteban Ortiz Gonzalez, an Industrial Engineer of the Pontificia Universidad Javeriana that currently work in Banco Davivienda.
+
+Special acknowledgments to Kaggle and Airbnb for provide de Boston dataset(2016-09 to 2017-09)
