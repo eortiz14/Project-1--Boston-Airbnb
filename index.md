@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Boston Airbnb
 
-You can use the [editor on GitHub](https://github.com/eortiz14/Project_1-Boston-Airbnb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Watching the information inside the 3 datasets of Boston Airbnb service who have information between 2016-09 to 2017-09 there are many question one could ask. The first dataset named "calendar"  have the records of booking , the second named "listings" have all information about all airbnb that somedody could rent in the city of Boston and the last one named "review" contain the review of people who rented some place in airbnb.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The dataset has over 50.000 observations and 154 variables
+
+
 
 ### Markdown
 
