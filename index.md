@@ -1,6 +1,7 @@
-# Boston Airbnb
+# Staring at Boston Airbnb Prices and Availability using ML
+![image](https://user-images.githubusercontent.com/88516507/129038755-16595d38-1681-4176-8e44-78827289c693.png)
 
-Watching and exploring the information inside the 3 datasets of Boston Airbnb service who have information between 2016-09 to 2017-09 there are many question one could ask, looking deeply I define 3 questions using 2 of the 3 datasets. The first dataset named "calendar"  have the records of booking , the second named "listings" have all information about all airbnb that somedody could rent in the city of Boston and the last one named "review" contain the review of people who rented some place in airbnb.
+Watching and exploring the information inside the 3 datasets of Boston Airbnb service who have information between 2016-09 and 2017-09 there are many question one could ask, looking deeply I define 3 questions using 2 of the 3 datasets. The first dataset named "calendar"  have the records of booking , the second named "listings" have all information about all airbnb that somedody could rent in the city of Boston and the last one named "review" contain the review of people who rented some place in airbnb.
 
 ## Question 1
  Availability per month and mean price per month have the same behavior in the boston Airbnb rents?
@@ -11,7 +12,7 @@ Looking at the data I want know if the month determine if the prices of the aver
 
 ![image](https://user-images.githubusercontent.com/88516507/128954566-1794dac3-3ad8-4eca-8c7e-39144a90d709.png) ![image](https://user-images.githubusercontent.com/88516507/128954617-8aa91074-d4f7-484e-9dd9-376fc8cecdb7.png)
 
-We can see at the begin of time window the average price tends to decrease and number of the available propertys tends to increase. Between march to august the price present small variaton, same as the number of the available properties. The conclussion is at the first semester the plots show contrary behaviors and in the second semester they are similar.
+We can see at the begin of time's window the average price tends to decrease and number of the available propertys tends to increase. Between march and august the price present small variaton, same as the number of the available properties. The conclussion is at the first semester the plots show contrary behaviors and in the second semester they are similar.
 
 
 ## Question 2
