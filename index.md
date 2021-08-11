@@ -30,3 +30,17 @@ In first place we can see positive correlation in all columns and taking as exam
 If somebody wants to put in rent any of their properties in Airbnb, what variables are the most important to make sure that the property will be rented more than 50% of time in a year ?
 
 ### Solving the problem
+
+To solve this question I applied CRSIP-DM, with calendar dataset I create a new variable who takes value 1 if the property was not available more than 50% of time in a year and 0 if it was. To explain what affect the percentage of occupation I use columns(depent variables) of the listings data set. The machine learning model  that I use was a XGBoost Classifier, I also applied randomized search in tandem with cross validation. The results of the model are shown below:
+
+![image](https://user-images.githubusercontent.com/88516507/128960230-a2ff9282-cac5-48a4-9899-00d840e72b4c.png)
+
+The ROC CURVE have a good perfomance and the AUC metric is 0.79,It is also good.
+
+Now that we know the model have a good perfomance , it´s time to understand what I need if would like to  put  in rent a property in Airbnb with success.
+
+![image](https://user-images.githubusercontent.com/88516507/128960333-7e930cc5-d576-4641-a10b-8bce1b750d93.png)
+
+![image](https://user-images.githubusercontent.com/88516507/128960368-c63e8b2f-69b0-4dce-a03c-5cedb7248e18.png)
+
+The first plot show the most important features we should consider and the second one shows how these features impact(positively or negatively). 
