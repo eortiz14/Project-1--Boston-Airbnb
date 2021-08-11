@@ -20,7 +20,7 @@ Question 1: Availability per month and mean price per month have the same behavi
 
 Question 2: Are necessesary in the "listings dataset" 7 columns of review's ?
 
-Question 3: If somebody wants to rent any property in Airbnb, what variables are the most important to make sure that the property will be rented more than 50% of time in a year ?
+Question 3: If somebody wants to put in rent any of their properties in Airbnb, what variables are the most important to make sure that the property will be rented more than 50% of time in a year ?
 
 ## 3. Interaction with the Proyect
 
