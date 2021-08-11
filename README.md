@@ -8,7 +8,7 @@ This is the first project of the data cience Udacity Course,the principal motiva
 
 The Jupyther Notebook have the next structure: 
 
-      1. Import Libraries
+      1. Import Libraries & Data
       2. Business & Data Understanding
       3. Data Preparation
       4. Model Data
