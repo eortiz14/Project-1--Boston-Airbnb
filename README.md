@@ -28,7 +28,7 @@ You should import the libraries and upload the datasets before you start to answ
 
 ## 4. Summary of the Results
 
-According to the specifications of the project the results are going to be showed in the next blogspot link
+According to the specifications of the project the results are going to be showed in the next blogspot link https://eortiz14.github.io/Project_1-Boston-Airbnb/
 
 ## 5. Author and Acknowledgements
 
